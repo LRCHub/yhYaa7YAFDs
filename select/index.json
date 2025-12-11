@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ごはんはおかず",
+  "base_artist": "放課後ティータイム",
+  "createdAt": "2025-12-11T12:39:13.232730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ごはんはおかず(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/01_ごはんはおかず(映画「けいおん!」Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ごはんはおかず [Studio Mix]",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/02_ごはんはおかず_[Studio_Mix]_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "HO-KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/03_ごはんはおかず_HO-KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【-Keyboard】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/04_ごはんはおかず_(Instrumental【-Keyboard】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/05_ごはんはおかず_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/06_ごはんはおかず_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ごはんはおかず [Studio Mix]",
+      "artist": "放課後ティータイム (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子, 竹達彩奈)",
+      "has_synced": true,
+      "path": "select/07_ごはんはおかず_[Studio_Mix]_放課後ティータイム_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子,_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/08_ごはんはおかず_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/09_ごはんはおかず_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ごはんはおかず (#23『放課後!』Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/10_ごはんはおかず_(_23『放課後!』Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【-Bass】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/11_ごはんはおかず_(Instrumental【-Bass】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【−Keyboard】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/12_ごはんはおかず_(Instrumental【−Keyboard】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ごはんはおかず (Instrumental【−Bass】)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/13_ごはんはおかず_(Instrumental【−Bass】)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/14_ごはんはおかず_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ごはんはおかず",
+      "artist": "Houkago Teatime",
+      "has_synced": true,
+      "path": "select/15_ごはんはおかず_Houkago_Teatime.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ごはんはおかず『Studio Mix』(Instrumental)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/16_ごはんはおかず『Studio_Mix』(Instrumental)_放課後ティータイム.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごはんはおかず",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/pl_01_ごはんはおかず_放課後ティータイム.txt"
+    }
+  ]
+}
